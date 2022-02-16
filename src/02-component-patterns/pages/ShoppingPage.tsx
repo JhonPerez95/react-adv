@@ -2,7 +2,7 @@ import { ProductCard } from '../components/ProductCard'
 
 const product = {
   id: '1',
-  tittle: 'Coffe Mug - Card',
+  tittle: 'Coffeees Mug - Card',
   img: './coffee-mug.png'
 }
 export const ShoppingPage = () => {
