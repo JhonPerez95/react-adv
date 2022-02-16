@@ -2,8 +2,8 @@ import { ProductCard } from '../components/ProductCard'
 
 const product = {
   id: '1',
-  tittle: 'Coffeees Mug - Card',
-  img: './coffee-mug.png'
+  tittle: 'Coffeees prueba Mug - Card',
+  img: './coffee-mug.png',
 }
 export const ShoppingPage = () => {
   return (
